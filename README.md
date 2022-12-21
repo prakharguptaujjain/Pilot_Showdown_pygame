@@ -1,3 +1,5 @@
+# Pilots Showdown #
+
 Pilots Showdown is a multiplayer space combat game in which players control
 spaceships and attempt to destroy each other using lasers. The game is
 implemented in Python using the Pygame library, a set of modules designed for
